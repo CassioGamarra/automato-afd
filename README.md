@@ -1,2 +1,2 @@
-# Trabalho sobre Autômato Finito Determinístico - Disciplina Linguagens Formais e Autômatos 
+#Autômato Finito Determinístico
 
