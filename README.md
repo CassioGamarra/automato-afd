@@ -1,2 +1,2 @@
-# automato-afd
-Trabalho sobre Autômato Finito Determinístico - Disciplina Linguagens Formais e Autômatos
+# Trabalho sobre Autômato Finito Determinístico - Disciplina Linguagens Formais e Autômatos 
+
