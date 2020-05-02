@@ -18,7 +18,7 @@ import javax.swing.table.TableColumn;
 
 /**
  *
- * @author cassi
+ * @author Cássio Gamarra & Frederico Hartmann
  */
 public class MainForm extends javax.swing.JFrame {
 
